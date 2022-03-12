@@ -1,0 +1,133 @@
+@media (min-width:992px) and (max-width:1199.98px){
+    #banner .banner_item {
+        height: 585px;
+    }
+    #banner .banner_item .banner_content h1 {
+        font-size: 50px;
+        letter-spacing: 15px;
+       
+    }
+    #about_me .secInfo h2 {
+        padding: 25px 0 25px 0;
+    }
+    #about_me .secInfo p {
+        padding: 29px 0 15px 0;
+    }
+    #about_me .bottom_item {
+       
+        padding: 22px 55px;
+        margin-top: 40px;
+    }
+    #services .secInfo h2 {
+        padding: 55px 0 19px 0;
+    }
+    #services .secInfo p {  
+        padding: 25px 0 42px 0;     
+    }
+    #services .service_item p {
+        padding-bottom: 44px;
+    }
+    #my_work h2 {
+      
+        padding: 75px 0 25px 0;
+       }
+       #my_work p {
+       
+        padding: 11px 0 46px 0;
+    }
+    #contact_me h2 {
+      
+        padding: 38px 0 16px 0;
+     
+    }
+    #contact_me p {
+       
+        padding: 6px 0 44px 0;
+    }
+    #contact_me .contact_form input[type="submit"] {
+       
+        margin: 28px 0 27px 0;
+    }
+ }
+   @media (min-width:768px) and (max-width:991.98px) {
+    #banner .banner_item {
+        height: 560px;
+       
+    }
+
+    #banner .banner_item .banner_content h1 {
+        font-size: 25px;
+        font-weight: 800;
+        letter-spacing: 16px;
+        text-transform: uppercase;
+    }
+    #about_me .secInfo h2 {
+        padding: 0px 0 4px 0;
+    }
+    #about_me .secInfo p {
+        
+        padding: 20px 0 6px 0;
+    }
+    #about_me .bottom_item {
+    
+        padding: 13px 65px;
+        margin-top: 23px;
+        
+        color: #7e8287;
+    }
+    #about_me .about_item h3 {
+        padding: 24px 0 24px 0;
+    }
+    #services .secInfo h2 {
+        padding: 0px 0 7px 0;
+    }
+    #services .secInfo p {
+   
+        padding: 13px 0 18px 0;
+    }
+    #my_work p {
+
+        padding: 31px 0 81px 0;
+    }
+    #my_work p {
+        padding: 10px 0 51px 0;
+    }
+    #my_work p {
+        padding: 5px 0 14px 0;
+    }
+    #contact_me h2 {
+         padding: 33px 0 8px 0;
+       
+
+ }
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ 
